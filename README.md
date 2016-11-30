@@ -1,0 +1,2 @@
+# init.vim
+for neovim
